@@ -73,7 +73,7 @@ ClassicEditor.defaultConfig = {
 			'bulletedList',
 			'numberedList',
 			'fontSize',
-			'fontColor', 
+			'fontColor',
 			'fontBackgroundColor',
 			'|',
 			'imageUpload',
